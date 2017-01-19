@@ -5,6 +5,13 @@ Coding Conventions: Allman notation
 
 CHANGELOG
 
+1.3 (19-01-2017)
+Implemented enhancements:
+Added a random function that gets one randomly selected author. 
+
+Fixed bugs:
+None
+
 1.2 (18-01-2017)
 Implemented enhancements:
 Added a 'what' field to authors array on welcome page.
